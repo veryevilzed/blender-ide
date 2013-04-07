@@ -1,4 +1,4 @@
 blender-ide
 ===========
 
-BlenderIDE
+Создание IDE для Blender3D
